@@ -1,1 +1,0 @@
-Instructions on this project can be found here: http://kesslerarduino.wordpress.com/2014/03/12/2-line-lcd-display
